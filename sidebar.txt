@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jua:home|Door43 (jua)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jua|d43-jua repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jua/archive/master.zip|d43-jua.zip]]
+
+**Recent Changes**
+{{changes>ns = jua}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jua|Ethnologue data]]
+
